@@ -1,0 +1,662 @@
+{
+    "_id": "nm1297015",
+    "Person": {
+        "name": "Emma Stone",
+        "careers": ["Actress", "Soundtrack", "Producer"],
+        "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1.._UX214_CR0,0,214,317_AL_.jpg",
+        "brief": "Emily Jean \"Emma\" Stone was born in Scottsdale, Arizona, to Krista (Yeager), a homemaker, and Jeffrey Charles Stone, a contracting company founder and CEO. She is of Swedish (from her paternal grandfather), English, German, Scottish, and Irish descent. Stone began acting as a child as a member of the Valley Youth Theatre in Phoenix, Arizona, where...            ",
+        "birthDate": "November6,1988",
+        "birthPlace": "Scottsdale, Arizona, USA"
+    },
+    "Actress": [{
+        "title": "Cruella",
+        "year": "2018",
+        "link": "http://www.imdb.com//title/tt3228774/?ref_=nm_flmg_act_1",
+        "index": 0,
+        "uid": "tt3228774",
+        "state": "pre-production",
+        "character": [{
+            "name": "Cruella de Vil"
+        }]
+    }, {
+        "title": "The Favourite",
+        "year": "2018",
+        "link": "http://www.imdb.com//title/tt5083738/?ref_=nm_flmg_act_2",
+        "index": 1,
+        "uid": "tt5083738",
+        "state": "pre-production",
+        "character": [{
+            "name": "Abigail Masham"
+        }]
+    }, {
+        "title": "Battle of the Sexes",
+        "year": "2017",
+        "link": "http://www.imdb.com//title/tt4622512/?ref_=nm_flmg_act_3",
+        "index": 2,
+        "uid": "tt4622512",
+        "state": "completed",
+        "character": [{
+            "name": "Billie Jean King"
+        }]
+    }, {
+        "title": "Maniac",
+        "year": "2017",
+        "link": "http://www.imdb.com//title/tt5580146/?ref_=nm_flmg_act_4",
+        "index": 3,
+        "uid": "tt5580146",
+        "type": "TV Series",
+        "state": "pre-production",
+        "TV": [{
+            "title": "Episode #1.2",
+            "year": "2017",
+            "link": "http://www.imdb.com//title/tt5611830/?ref_=nm_flmg_act_4"
+        }, {
+            "title": "Episode #1.1",
+            "year": "2017",
+            "link": "http://www.imdb.com//title/tt5611650/?ref_=nm_flmg_act_4"
+        }]
+    }, {
+        "title": "La La Land",
+        "year": "2016/I",
+        "link": "http://www.imdb.com//title/tt3783958/?ref_=nm_flmg_act_5",
+        "index": 4,
+        "uid": "tt3783958",
+        "character": [{
+            "name": "Mia"
+        }]
+    }, {
+        "title": "Maya & Marty",
+        "year": "2016",
+        "link": "http://www.imdb.com//title/tt5543284/?ref_=nm_flmg_act_6",
+        "index": 5,
+        "uid": "tt5543284",
+        "type": "TV Series",
+        "character": [{
+            "name": "Various"
+        }],
+        "TV": [{
+            "title": "Sean Hayes, Steve Martin, Kelly Ripa & Emma Stone",
+            "year": "2016",
+            "link": "http://www.imdb.com//title/tt5831802/?ref_=nm_flmg_act_6"
+        }]
+    }, {
+        "title": "Popstar: Never Stop Never Stopping",
+        "year": "2016",
+        "link": "http://www.imdb.com//title/tt3960412/?ref_=nm_flmg_act_7",
+        "index": 6,
+        "uid": "tt3960412",
+        "character": [{
+            "name": "Claudia Cantrell",
+            "addition": "uncredited"
+        }]
+    }, {
+        "title": "Saturday Night Live",
+        "year": "2015",
+        "link": "http://www.imdb.com//title/tt0072562/?ref_=nm_flmg_act_8",
+        "index": 7,
+        "uid": "tt0072562",
+        "type": "TV Series",
+        "character": [{
+            "name": "Emma Stone (segment \"Star Wars Auditions\")"
+        }],
+        "TV": [{
+            "title": "Matthew McConaughey/Adele",
+            "year": "2015",
+            "character": {
+                "name": "Emma Stone (segment \"Star Wars Auditions\")",
+                "addition": "uncredited"
+            },
+            "link": "http://www.imdb.com//title/tt5182368/?ref_=nm_flmg_act_8"
+        }]
+    }, {
+        "title": "Will Butler: Anna",
+        "year": "2015",
+        "link": "http://www.imdb.com//title/tt5708190/?ref_=nm_flmg_act_9",
+        "index": 8,
+        "uid": "tt5708190",
+        "type": "Video short"
+    }, {
+        "title": "Aloha",
+        "year": "2015/I",
+        "link": "http://www.imdb.com//title/tt1243974/?ref_=nm_flmg_act_10",
+        "index": 9,
+        "uid": "tt1243974",
+        "character": [{
+            "name": "Allison Ng"
+        }]
+    }, {
+        "title": "Irrational Man",
+        "year": "2015",
+        "link": "http://www.imdb.com//title/tt3715320/?ref_=nm_flmg_act_11",
+        "index": 10,
+        "uid": "tt3715320",
+        "character": [{
+            "name": "Jill Pollard"
+        }]
+    }, {
+        "title": "The Interview",
+        "year": "2014/II",
+        "link": "http://www.imdb.com//title/tt2788710/?ref_=nm_flmg_act_12",
+        "index": 11,
+        "uid": "tt2788710",
+        "character": [{
+            "name": "Emma Stone",
+            "addition": "uncredited"
+        }]
+    }, {
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "year": "2014",
+        "link": "http://www.imdb.com//title/tt2562232/?ref_=nm_flmg_act_13",
+        "index": 12,
+        "uid": "tt2562232",
+        "character": [{
+            "name": "Sam"
+        }]
+    }, {
+        "title": "Magic in the Moonlight",
+        "year": "2014",
+        "link": "http://www.imdb.com//title/tt2870756/?ref_=nm_flmg_act_14",
+        "index": 13,
+        "uid": "tt2870756",
+        "character": [{
+            "name": "Sophie"
+        }]
+    }, {
+        "title": "The Amazing Spider-Man 2",
+        "year": "2014",
+        "link": "http://www.imdb.com//title/tt1872181/?ref_=nm_flmg_act_15",
+        "index": 14,
+        "uid": "tt1872181",
+        "character": [{
+            "name": "Gwen Stacy"
+        }]
+    }, {
+        "title": "The Croods",
+        "year": "2013",
+        "link": "http://www.imdb.com//title/tt0481499/?ref_=nm_flmg_act_16",
+        "index": 15,
+        "uid": "tt0481499",
+        "character": [{
+            "name": "Eep",
+            "addition": "voice"
+        }]
+    }, {
+        "title": "Gangster Squad",
+        "year": "2013",
+        "link": "http://www.imdb.com//title/tt1321870/?ref_=nm_flmg_act_17",
+        "index": 16,
+        "uid": "tt1321870",
+        "character": [{
+            "name": "Grace Faraday"
+        }]
+    }, {
+        "title": "Movie 43",
+        "year": "2013",
+        "link": "http://www.imdb.com//title/tt1333125/?ref_=nm_flmg_act_18",
+        "index": 17,
+        "uid": "tt1333125",
+        "character": [{
+            "name": "Veronica",
+            "addition": "segment \"Veronica"
+        }]
+    }, {
+        "title": "iCarly",
+        "year": "2012",
+        "link": "http://www.imdb.com//title/tt0972534/?ref_=nm_flmg_act_19",
+        "index": 18,
+        "uid": "tt0972534",
+        "type": "TV Series",
+        "character": [{
+            "name": "Heather"
+        }],
+        "TV": [{
+            "title": "iFind Spencer Friends",
+            "year": "2012",
+            "character": {
+                "name": "Heather"
+            },
+            "link": "http://www.imdb.com//title/tt2470918/?ref_=nm_flmg_act_19"
+        }]
+    }, {
+        "title": "Sleeping Dogs",
+        "year": "2012",
+        "link": "http://www.imdb.com//title/tt2241982/?ref_=nm_flmg_act_20",
+        "index": 19,
+        "uid": "tt2241982",
+        "type": "Video Game",
+        "character": [{
+            "name": "Amanda",
+            "addition": "voice"
+        }]
+    }, {
+        "title": "The Amazing Spider-Man",
+        "year": "2012",
+        "link": "http://www.imdb.com//title/tt0948470/?ref_=nm_flmg_act_21",
+        "index": 20,
+        "uid": "tt0948470",
+        "character": [{
+            "name": "Gwen Stacy"
+        }]
+    }, {
+        "title": "30 Rock",
+        "year": "2012",
+        "link": "http://www.imdb.com//title/tt0496424/?ref_=nm_flmg_act_22",
+        "index": 21,
+        "uid": "tt0496424",
+        "type": "TV Series",
+        "character": [{
+            "name": "Emma Stone"
+        }],
+        "TV": [{
+            "title": "The Ballad of Kenneth Parcell",
+            "year": "2012",
+            "character": {
+                "name": "Emma Stone"
+            },
+            "link": "http://www.imdb.com//title/tt2191917/?ref_=nm_flmg_act_22"
+        }]
+    }, {
+        "title": "The Help",
+        "year": "2011",
+        "link": "http://www.imdb.com//title/tt1454029/?ref_=nm_flmg_act_23",
+        "index": 22,
+        "uid": "tt1454029",
+        "character": [{
+            "name": "Skeeter Phelan"
+        }]
+    }, {
+        "title": "Crazy, Stupid, Love.",
+        "year": "2011",
+        "link": "http://www.imdb.com//title/tt1570728/?ref_=nm_flmg_act_24",
+        "index": 23,
+        "uid": "tt1570728",
+        "character": [{
+            "name": "Hannah"
+        }]
+    }, {
+        "title": "Friends with Benefits",
+        "year": "2011",
+        "link": "http://www.imdb.com//title/tt1632708/?ref_=nm_flmg_act_25",
+        "index": 24,
+        "uid": "tt1632708",
+        "character": [{
+            "name": "Kayla"
+        }]
+    }, {
+        "title": "Robot Chicken",
+        "year": "2011",
+        "link": "http://www.imdb.com//title/tt0437745/?ref_=nm_flmg_act_26",
+        "index": 25,
+        "uid": "tt0437745",
+        "type": "TV Series",
+        "character": [{
+            "name": "Yori"
+        }, {
+            "name": "Janet"
+        }, {
+            "name": "Lois Lane"
+        }],
+        "TV": [{
+            "title": "Catch Me If You Kangaroo Jack",
+            "year": "2011",
+            "character": {
+                "name": "Yori",
+                "addition": "voice"
+            },
+            "link": "http://www.imdb.com//title/tt1821998/?ref_=nm_flmg_act_26"
+        }, {
+            "title": "No Country for Old Dogs",
+            "year": "2011",
+            "character": {
+                "name": "Lois Lane"
+            },
+            "link": "http://www.imdb.com//title/tt1822002/?ref_=nm_flmg_act_26"
+        }]
+    }, {
+        "title": "Easy A",
+        "year": "2010",
+        "link": "http://www.imdb.com//title/tt1282140/?ref_=nm_flmg_act_27",
+        "index": 26,
+        "uid": "tt1282140",
+        "character": [{
+            "name": "Olive"
+        }]
+    }, {
+        "title": "iPhone Murder Apps",
+        "year": "2010",
+        "link": "http://www.imdb.com//title/tt1741714/?ref_=nm_flmg_act_28",
+        "index": 27,
+        "uid": "tt1741714",
+        "type": "Video short",
+        "character": [{
+            "name": "Emma Stone"
+        }]
+    }, {
+        "title": "Marmaduke",
+        "year": "2010",
+        "link": "http://www.imdb.com//title/tt1392197/?ref_=nm_flmg_act_29",
+        "index": 28,
+        "uid": "tt1392197",
+        "character": [{
+            "name": "Mazie",
+            "addition": "voice"
+        }]
+    }, {
+        "title": "Zombieland",
+        "year": "2009",
+        "link": "http://www.imdb.com//title/tt1156398/?ref_=nm_flmg_act_30",
+        "index": 29,
+        "uid": "tt1156398",
+        "character": [{
+            "name": "Wichita"
+        }]
+    }, {
+        "title": "Paper Man",
+        "year": "2009",
+        "link": "http://www.imdb.com//title/tt0437405/?ref_=nm_flmg_act_31",
+        "index": 30,
+        "uid": "tt0437405",
+        "character": [{
+            "name": "Abby"
+        }]
+    }, {
+        "title": "Ghosts of Girlfriends Past",
+        "year": "2009",
+        "link": "http://www.imdb.com//title/tt0821640/?ref_=nm_flmg_act_32",
+        "index": 31,
+        "uid": "tt0821640",
+        "character": [{
+            "name": "Allison Vandermeersh"
+        }]
+    }, {
+        "title": "The House Bunny",
+        "year": "2008",
+        "link": "http://www.imdb.com//title/tt0852713/?ref_=nm_flmg_act_33",
+        "index": 32,
+        "uid": "tt0852713",
+        "character": [{
+            "name": "Natalie"
+        }]
+    }, {
+        "title": "The Rocker",
+        "year": "2008",
+        "link": "http://www.imdb.com//title/tt1031969/?ref_=nm_flmg_act_34",
+        "index": 33,
+        "uid": "tt1031969",
+        "character": [{
+            "name": "Amelia"
+        }]
+    }, {
+        "title": "Superbad",
+        "year": "2007",
+        "link": "http://www.imdb.com//title/tt0829482/?ref_=nm_flmg_act_35",
+        "index": 34,
+        "uid": "tt0829482",
+        "character": [{
+            "name": "Jules"
+        }]
+    }, {
+        "title": "Drive",
+        "year": "2007",
+        "link": "http://www.imdb.com//title/tt0770521/?ref_=nm_flmg_act_36",
+        "index": 35,
+        "uid": "tt0770521",
+        "type": "TV Series",
+        "character": [{
+            "name": "Violet Trimble"
+        }, {
+            "name": "Violet Ashton"
+        }],
+        "TV": [{
+            "title": "Unaired Pilot",
+            "year": "2007",
+            "character": {
+                "name": "Violet Ashton"
+            },
+            "link": "http://www.imdb.com//title/tt0792531/?ref_=nm_flmg_act_36"
+        }, {
+            "title": "Rearview",
+            "year": "2007",
+            "character": {
+                "name": "Violet Trimble"
+            },
+            "link": "http://www.imdb.com//title/tt1004183/?ref_=nm_flmg_act_36"
+        }, {
+            "title": "The Extra Mile",
+            "year": "2007",
+            "character": {
+                "name": "Violet Trimble"
+            },
+            "link": "http://www.imdb.com//title/tt0989988/?ref_=nm_flmg_act_36"
+        }, {
+            "title": "No Turning Back",
+            "year": "2007",
+            "character": {
+                "name": "Violet Trimble"
+            },
+            "link": "http://www.imdb.com//title/tt0993189/?ref_=nm_flmg_act_36"
+        }, {
+            "title": "Let the Games Begin",
+            "year": "2007",
+            "character": {
+                "name": "Violet Trimble"
+            },
+            "link": "http://www.imdb.com//title/tt0989181/?ref_=nm_flmg_act_36"
+        }]
+    }, {
+        "title": "Lucky Louie",
+        "year": "2006",
+        "link": "http://www.imdb.com//title/tt0460619/?ref_=nm_flmg_act_37",
+        "index": 36,
+        "uid": "tt0460619",
+        "type": "TV Series",
+        "character": [{
+            "name": "Shannon"
+        }],
+        "TV": [{
+            "title": "Get Out",
+            "year": "2006",
+            "link": "http://www.imdb.com//title/tt0637373/?ref_=nm_flmg_act_37"
+        }]
+    }, {
+        "title": "Malcolm in the Middle",
+        "year": "2006",
+        "link": "http://www.imdb.com//title/tt0212671/?ref_=nm_flmg_act_38",
+        "index": 37,
+        "uid": "tt0212671",
+        "type": "TV Series",
+        "character": [{
+            "name": "Diane"
+        }],
+        "TV": [{
+            "title": "Lois Strikes Back",
+            "year": "2006",
+            "link": "http://www.imdb.com//title/tt0640357/?ref_=nm_flmg_act_38"
+        }]
+    }, {
+        "title": "The Suite Life of Zack and Cody",
+        "year": "2006",
+        "link": "http://www.imdb.com//title/tt0426371/?ref_=nm_flmg_act_39",
+        "index": 38,
+        "uid": "tt0426371",
+        "type": "TV Series",
+        "character": [{
+            "name": "Ivana Tipton"
+        }],
+        "TV": [{
+            "title": "Crushed",
+            "year": "2006",
+            "character": {
+                "name": "Ivana Tipton",
+                "addition": "voice"
+            },
+            "link": "http://www.imdb.com//title/tt0712948/?ref_=nm_flmg_act_39"
+        }]
+    }, {
+        "title": "Medium",
+        "year": "2005",
+        "link": "http://www.imdb.com//title/tt0412175/?ref_=nm_flmg_act_40",
+        "index": 39,
+        "uid": "tt0412175",
+        "type": "TV Series",
+        "character": [{
+            "name": "Cynthia McCallister"
+        }],
+        "TV": [{
+            "title": "Sweet Dreams",
+            "year": "2005",
+            "character": {
+                "name": "Cynthia McCallister",
+                "addition": "as Riley Stone"
+            },
+            "link": "http://www.imdb.com//title/tt0645633/?ref_=nm_flmg_act_40"
+        }]
+    }, {
+        "title": "The New Partridge Family",
+        "year": "2005",
+        "link": "http://www.imdb.com//title/tt0444678/?ref_=nm_flmg_act_41",
+        "index": 40,
+        "uid": "tt0444678",
+        "type": "TV Movie",
+        "character": [{
+            "name": "Laurie Partridge",
+            "addition": "as Emily Stone"
+        }]
+    }],
+    "Soundtrack": [{
+        "title": "The Tonight Show Starring Jimmy Fallon",
+        "year": "none",
+        "link": "http://www.imdb.com//title/tt3444938/?ref_=_1",
+        "index": 0,
+        "uid": "tt3444938",
+        "addition": "TV Series"
+    }, {
+        "title": "La La Land",
+        "year": "2016/I",
+        "link": "http://www.imdb.com//title/tt3783958/?ref_=_2",
+        "index": 1,
+        "uid": "tt3783958",
+        "addition": "Humming"
+    }, {
+        "title": "Saturday Night Live",
+        "year": "2010",
+        "link": "http://www.imdb.com//title/tt0072562/?ref_=_3",
+        "index": 2,
+        "uid": "tt0072562",
+        "addition": "TV Series"
+    }, {
+        "title": "Easy A",
+        "year": "2010",
+        "link": "http://www.imdb.com//title/tt1282140/?ref_=_4",
+        "index": 3,
+        "uid": "tt1282140",
+        "addition": "performer: \"Pocketful of Sunshine\", \"Knock on Wood\""
+    }],
+    "Producer": [{
+        "title": "Maniac",
+        "year": "2017",
+        "link": "http://www.imdb.com//title/tt5580146/?ref_=nm_flmg_prd_1",
+        "index": 0,
+        "uid": "tt5580146",
+        "state": "pre-production",
+        "type": "TV Series",
+        "role": "executive producer"
+    }, {
+        "title": "Little White Corvette",
+        "year": "none",
+        "link": "http://www.imdb.com//title/tt2018092/?ref_=nm_flmg_prd_2",
+        "index": 1,
+        "uid": "tt2018092",
+        "state": "announced",
+        "role": "executive producer"
+    }]
+} {
+    "_id": "tt3783958",
+    "Movie": {
+        "title": "La La Land",
+        "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "year": "2016",
+        "rate": "8.4",
+        "rateCount": "210206",
+        "PG": "PG13",
+        "duration": "2h 8min",
+        "genre": ["Comedy", "Drama", "Music"],
+        "releaseDate": "8 December 2016 (Singapore)",
+        "brief": "A jazz pianist falls for an aspiring actress in Los Angeles.",
+        "director": [{
+            "name": "Damien Chazelle",
+            "link": "http://www.imdb.com//name/nm3227090?ref_=tt_ov_dr"
+        }],
+        "writer": [{
+            "name": "Damien Chazelle",
+            "link": "http://www.imdb.com//name/nm3227090?ref_=tt_ov_wr"
+        }],
+        "metascore": "93",
+        "review": {
+            "user": "917",
+            "critic": "558"
+        },
+        "awards": " Won 6 Oscars. Another 179 wins & 220 nominations. "
+    },
+    "Cast": [{
+        "name": "Ryan Gosling",
+        "link": "/name/nm0331516/?ref_=tt_cl_t1",
+        "character": "Sebastian"
+    }, {
+        "name": "Emma Stone",
+        "link": "/name/nm1297015/?ref_=tt_cl_t2",
+        "character": "Mia"
+    }, {
+        "name": "Amiée Conn",
+        "link": "/name/nm2353430/?ref_=tt_cl_t3",
+        "character": "Famous Actress"
+    }, {
+        "name": "Terry Walters",
+        "link": "/name/nm0881814/?ref_=tt_cl_t4",
+        "character": "Linda (Coffee Shop Manager)"
+    }, {
+        "name": "Thom Shelton",
+        "link": "/name/nm3235876/?ref_=tt_cl_t5",
+        "character": "Coffee Spiller"
+    }, {
+        "name": "Cinda Adams",
+        "link": "/name/nm1197574/?ref_=tt_cl_t6",
+        "character": "Casting Director (First Audition)"
+    }, {
+        "name": "Callie Hernandez",
+        "link": "/name/nm5555747/?ref_=tt_cl_t7",
+        "character": "Tracy"
+    }, {
+        "name": "Jessica Rothe",
+        "link": "/name/nm1557329/?ref_=tt_cl_t8",
+        "character": "Alexis"
+    }, {
+        "name": "Sonoya Mizuno",
+        "link": "/name/nm4420495/?ref_=tt_cl_t9",
+        "character": "Caitlin"
+    }, {
+        "name": "Rosemarie DeWitt",
+        "link": "/name/nm1679669/?ref_=tt_cl_t10",
+        "character": "Laura"
+    }, {
+        "name": "J.K. Simmons",
+        "link": "/name/nm0799777/?ref_=tt_cl_t11",
+        "character": "Bill"
+    }, {
+        "name": "Claudine Claudio",
+        "link": "/name/nm0165246/?ref_=tt_cl_t12",
+        "character": "Karen (Waitress)"
+    }, {
+        "name": "Jason Fuchs",
+        "link": "/name/nm0297229/?ref_=tt_cl_t13",
+        "character": "Carlo"
+    }, {
+        "name": "D.A. Wallach",
+        "link": "/name/nm5240923/?ref_=tt_cl_t14",
+        "character": "80's Singer"
+    }, {
+        "name": "Trevor Lissauer",
+        "link": "/name/nm0514179/?ref_=tt_cl_t15",
+        "character": "Valet"
+    }]
+}
